@@ -8,7 +8,7 @@ package demo;
 
 /**
  *
- * @author Yellow Flash
+ * @author Pubduu
  */
 public class DEMO {
 
