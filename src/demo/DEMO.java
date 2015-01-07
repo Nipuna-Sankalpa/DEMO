@@ -16,7 +16,7 @@ public class DEMO {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("HELLO CONFLICTS!");
+        System.out.println("HELLOOOO CONFLICTS!");
         
         for (int i = 0; i < 10; i++) {
             System.out.println("psd solutions");
