@@ -19,7 +19,7 @@ public class DEMO {
         System.out.println("HELLO WORLD");
         
         for (int i = 0; i < 10; i++) {
-            System.out.println("psd solutions");
+            System.out.println("psd solutions yasanka");
         }
         // TODO code application logic here
     }
