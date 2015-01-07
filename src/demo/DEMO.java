@@ -19,8 +19,9 @@ public class DEMO {
         System.out.println("HIIII CONFLICTS!");
         
         for (int i = 0; i < 10; i++) {
-            System.out.println("psd solutions");
+            System.out.println("psd solut");
             System.out.println("Nipuna Sankalpa");
+            
         }
         // TODO code application logic here
     }
