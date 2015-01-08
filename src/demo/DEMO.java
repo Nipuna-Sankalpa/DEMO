@@ -21,7 +21,7 @@ public class DEMO {
         for (int i = 0; i < 10; i++) {
             System.out.println("psd solut");
             System.out.println("Nipuna");
-            
+            System.out.println("Nipuna sankalpa");
             
         }
         // TODO code application logic here
